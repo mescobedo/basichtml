@@ -1,0 +1,806 @@
+[
+  {
+    "vendorNumber": 100463,
+    "totalSales": 69292.94
+  },
+  {
+    "vendorNumber": 100552,
+    "totalSales": 22929.78
+  },
+  {
+    "vendorNumber": 100781,
+    "totalSales": 4226.4
+  },
+  {
+    "vendorNumber": 100846,
+    "totalSales": 23774.4
+  },
+  {
+    "vendorNumber": 100862,
+    "totalSales": 5491.35
+  },
+  {
+    "vendorNumber": 100986,
+    "totalSales": 11293.29
+  },
+  {
+    "vendorNumber": 100994,
+    "totalSales": 32649.63
+  },
+  {
+    "vendorNumber": 101028,
+    "totalSales": 23898.39
+  },
+  {
+    "vendorNumber": 101230,
+    "totalSales": 10525.17
+  },
+  {
+    "vendorNumber": 101559,
+    "totalSales": 26991.79
+  },
+  {
+    "vendorNumber": 101729,
+    "totalSales": 122826.68
+  },
+  {
+    "vendorNumber": 102067,
+    "totalSales": 49408.97
+  },
+  {
+    "vendorNumber": 102075,
+    "totalSales": 45389.05
+  },
+  {
+    "vendorNumber": 102156,
+    "totalSales": 5134.37
+  },
+  {
+    "vendorNumber": 102237,
+    "totalSales": 350312.8
+  },
+  {
+    "vendorNumber": 102318,
+    "totalSales": 18599.42
+  },
+  {
+    "vendorNumber": 102407,
+    "totalSales": 37117.148
+  },
+  {
+    "vendorNumber": 102458,
+    "totalSales": 3698.66
+  },
+  {
+    "vendorNumber": 102466,
+    "totalSales": 186908.96
+  },
+  {
+    "vendorNumber": 102687,
+    "totalSales": 64311.56
+  },
+  {
+    "vendorNumber": 102776,
+    "totalSales": 23350.87
+  },
+  {
+    "vendorNumber": 102806,
+    "totalSales": 12120.43
+  },
+  {
+    "vendorNumber": 102849,
+    "totalSales": 616796.61
+  },
+  {
+    "vendorNumber": 103020,
+    "totalSales": 4618.25
+  },
+  {
+    "vendorNumber": 103292,
+    "totalSales": 8608.42
+  },
+  {
+    "vendorNumber": 103446,
+    "totalSales": 161032.27
+  },
+  {
+    "vendorNumber": 103470,
+    "totalSales": 12561.37
+  },
+  {
+    "vendorNumber": 103721,
+    "totalSales": 15051.16
+  },
+  {
+    "vendorNumber": 103926,
+    "totalSales": 20066.82
+  },
+  {
+    "vendorNumber": 104108,
+    "totalSales": 15950.98
+  },
+  {
+    "vendorNumber": 104264,
+    "totalSales": 71614.32
+  },
+  {
+    "vendorNumber": 104388,
+    "totalSales": 24786.63
+  },
+  {
+    "vendorNumber": 104876,
+    "totalSales": 498.57
+  },
+  {
+    "vendorNumber": 104914,
+    "totalSales": 5128.01
+  },
+  {
+    "vendorNumber": 104922,
+    "totalSales": 17846.13
+  },
+  {
+    "vendorNumber": 105333,
+    "totalSales": 1694442.003
+  },
+  {
+    "vendorNumber": 105481,
+    "totalSales": 76225.61
+  },
+  {
+    "vendorNumber": 105686,
+    "totalSales": 26586.43
+  },
+  {
+    "vendorNumber": 106062,
+    "totalSales": 114197.83
+  },
+  {
+    "vendorNumber": 106089,
+    "totalSales": 1982.24
+  },
+  {
+    "vendorNumber": 106135,
+    "totalSales": 524220.64
+  },
+  {
+    "vendorNumber": 107115,
+    "totalSales": 100381.16
+  },
+  {
+    "vendorNumber": 107212,
+    "totalSales": 33552.9
+  },
+  {
+    "vendorNumber": 108022,
+    "totalSales": 93566.24
+  },
+  {
+    "vendorNumber": 108251,
+    "totalSales": 3360.21
+  },
+  {
+    "vendorNumber": 109479,
+    "totalSales": 31861.54
+  },
+  {
+    "vendorNumber": 111155,
+    "totalSales": 15516
+  },
+  {
+    "vendorNumber": 111449,
+    "totalSales": 25255.95
+  },
+  {
+    "vendorNumber": 112771,
+    "totalSales": 440913.78
+  },
+  {
+    "vendorNumber": 113131,
+    "totalSales": 34333.87
+  },
+  {
+    "vendorNumber": 113832,
+    "totalSales": 7363.6
+  },
+  {
+    "vendorNumber": 114626,
+    "totalSales": 31441.33
+  },
+  {
+    "vendorNumber": 114928,
+    "totalSales": 17248.48
+  },
+  {
+    "vendorNumber": 116076,
+    "totalSales": 15532.76
+  },
+  {
+    "vendorNumber": 118494,
+    "totalSales": 234396.299
+  },
+  {
+    "vendorNumber": 120294,
+    "totalSales": 213000.81
+  },
+  {
+    "vendorNumber": 121126,
+    "totalSales": 75673.84
+  },
+  {
+    "vendorNumber": 121444,
+    "totalSales": 67084.69
+  },
+  {
+    "vendorNumber": 122629,
+    "totalSales": 750
+  },
+  {
+    "vendorNumber": 122920,
+    "totalSales": 31997.29
+  },
+  {
+    "vendorNumber": 123331,
+    "totalSales": 54772.78
+  },
+  {
+    "vendorNumber": 126926,
+    "totalSales": 45583.18
+  },
+  {
+    "vendorNumber": 127655,
+    "totalSales": 12.13
+  },
+  {
+    "vendorNumber": 129704,
+    "totalSales": 31845.5
+  },
+  {
+    "vendorNumber": 130885,
+    "totalSales": 302302.31
+  },
+  {
+    "vendorNumber": 131199,
+    "totalSales": 43076.51
+  },
+  {
+    "vendorNumber": 132136,
+    "totalSales": 225933.93
+  },
+  {
+    "vendorNumber": 134309,
+    "totalSales": 7220.27
+  },
+  {
+    "vendorNumber": 134899,
+    "totalSales": 48868.61
+  },
+  {
+    "vendorNumber": 135003,
+    "totalSales": 308346.25
+  },
+  {
+    "vendorNumber": 136646,
+    "totalSales": 7280.62
+  },
+  {
+    "vendorNumber": 139688,
+    "totalSales": 10960.44
+  },
+  {
+    "vendorNumber": 141895,
+    "totalSales": 744.85
+  },
+  {
+    "vendorNumber": 142107,
+    "totalSales": 6206.33
+  },
+  {
+    "vendorNumber": 145408,
+    "totalSales": 2236.26
+  },
+  {
+    "vendorNumber": 147680,
+    "totalSales": 69714.04
+  },
+  {
+    "vendorNumber": 148547,
+    "totalSales": 4146.84
+  },
+  {
+    "vendorNumber": 154300,
+    "totalSales": 9003.25
+  },
+  {
+    "vendorNumber": 157250,
+    "totalSales": 91431.17
+  },
+  {
+    "vendorNumber": 160050,
+    "totalSales": 13047.16
+  },
+  {
+    "vendorNumber": 165230,
+    "totalSales": 81469.96
+  },
+  {
+    "vendorNumber": 165690,
+    "totalSales": 41158.18
+  },
+  {
+    "vendorNumber": 166530,
+    "totalSales": 9256.4
+  },
+  {
+    "vendorNumber": 167610,
+    "totalSales": 13665.1
+  },
+  {
+    "vendorNumber": 168040,
+    "totalSales": 372414.8378
+  },
+  {
+    "vendorNumber": 169790,
+    "totalSales": 32366.96
+  },
+  {
+    "vendorNumber": 173570,
+    "totalSales": 92816.76
+  },
+  {
+    "vendorNumber": 176890,
+    "totalSales": 8489.35
+  },
+  {
+    "vendorNumber": 177030,
+    "totalSales": 76139.23
+  },
+  {
+    "vendorNumber": 178320,
+    "totalSales": 347.11
+  },
+  {
+    "vendorNumber": 178380,
+    "totalSales": 32603.81
+  },
+  {
+    "vendorNumber": 179920,
+    "totalSales": 11825.35
+  },
+  {
+    "vendorNumber": 180280,
+    "totalSales": 77301.39
+  },
+  {
+    "vendorNumber": 183130,
+    "totalSales": 11897.46
+  },
+  {
+    "vendorNumber": 183310,
+    "totalSales": 16279.7
+  },
+  {
+    "vendorNumber": 183780,
+    "totalSales": 44411.32
+  },
+  {
+    "vendorNumber": 183860,
+    "totalSales": 51353.46
+  },
+  {
+    "vendorNumber": 185240,
+    "totalSales": 14586.85
+  },
+  {
+    "vendorNumber": 186070,
+    "totalSales": 8108.67
+  },
+  {
+    "vendorNumber": 186200,
+    "totalSales": 1082.68
+  },
+  {
+    "vendorNumber": 187750,
+    "totalSales": 64945.74
+  },
+  {
+    "vendorNumber": 188190,
+    "totalSales": 5623.75
+  },
+  {
+    "vendorNumber": 188820,
+    "totalSales": 164933.82
+  },
+  {
+    "vendorNumber": 189010,
+    "totalSales": 116726.43
+  },
+  {
+    "vendorNumber": 189340,
+    "totalSales": 48320.65
+  },
+  {
+    "vendorNumber": 189670,
+    "totalSales": 3926.25
+  },
+  {
+    "vendorNumber": 190000,
+    "totalSales": 20.44
+  },
+  {
+    "vendorNumber": 190030,
+    "totalSales": 43679.13
+  },
+  {
+    "vendorNumber": 190390,
+    "totalSales": 168210.13
+  },
+  {
+    "vendorNumber": 192970,
+    "totalSales": 574.68
+  },
+  {
+    "vendorNumber": 193410,
+    "totalSales": 487.32
+  },
+  {
+    "vendorNumber": 193780,
+    "totalSales": 6985.11
+  },
+  {
+    "vendorNumber": 195390,
+    "totalSales": 35975.7
+  },
+  {
+    "vendorNumber": 195580,
+    "totalSales": 12499.45
+  },
+  {
+    "vendorNumber": 195710,
+    "totalSales": 3366
+  },
+  {
+    "vendorNumber": 196260,
+    "totalSales": 70414.61
+  },
+  {
+    "vendorNumber": 196690,
+    "totalSales": 10029.7
+  },
+  {
+    "vendorNumber": 197190,
+    "totalSales": 69343.59
+  },
+  {
+    "vendorNumber": 197380,
+    "totalSales": 23100.494
+  },
+  {
+    "vendorNumber": 197630,
+    "totalSales": 42670.45
+  },
+  {
+    "vendorNumber": 198520,
+    "totalSales": 11020.23
+  },
+  {
+    "vendorNumber": 198790,
+    "totalSales": 69913.2
+  },
+  {
+    "vendorNumber": 200200,
+    "totalSales": 156370.51
+  },
+  {
+    "vendorNumber": 201820,
+    "totalSales": 69.21
+  },
+  {
+    "vendorNumber": 202280,
+    "totalSales": 17079.35
+  },
+  {
+    "vendorNumber": 203450,
+    "totalSales": 13287.64
+  },
+  {
+    "vendorNumber": 203800,
+    "totalSales": 13881.05
+  },
+  {
+    "vendorNumber": 203880,
+    "totalSales": 76958.76
+  },
+  {
+    "vendorNumber": 204130,
+    "totalSales": 4883.72
+  },
+  {
+    "vendorNumber": 205940,
+    "totalSales": 244213.9
+  },
+  {
+    "vendorNumber": 208110,
+    "totalSales": 49432.06
+  },
+  {
+    "vendorNumber": 209770,
+    "totalSales": 12164.14
+  },
+  {
+    "vendorNumber": 210810,
+    "totalSales": 13100.15
+  },
+  {
+    "vendorNumber": 211880,
+    "totalSales": 1403.31
+  },
+  {
+    "vendorNumber": 212970,
+    "totalSales": 320.4
+  },
+  {
+    "vendorNumber": 214070,
+    "totalSales": 13719.97
+  },
+  {
+    "vendorNumber": 214650,
+    "totalSales": 73706.75
+  },
+  {
+    "vendorNumber": 214710,
+    "totalSales": 141307.7
+  },
+  {
+    "vendorNumber": 215740,
+    "totalSales": 93620.18
+  },
+  {
+    "vendorNumber": 215900,
+    "totalSales": 21014.47
+  },
+  {
+    "vendorNumber": 217790,
+    "totalSales": 19685.97
+  },
+  {
+    "vendorNumber": 219480,
+    "totalSales": 24780.66
+  },
+  {
+    "vendorNumber": 220430,
+    "totalSales": 13885.32
+  },
+  {
+    "vendorNumber": 222560,
+    "totalSales": 42268.77
+  },
+  {
+    "vendorNumber": 224910,
+    "totalSales": 56632.29
+  },
+  {
+    "vendorNumber": 225250,
+    "totalSales": 44598.4308
+  },
+  {
+    "vendorNumber": 225680,
+    "totalSales": 184842.23
+  },
+  {
+    "vendorNumber": 226080,
+    "totalSales": 16129.694
+  },
+  {
+    "vendorNumber": 226450,
+    "totalSales": 8227.73
+  },
+  {
+    "vendorNumber": 229180,
+    "totalSales": 35151.66
+  },
+  {
+    "vendorNumber": 229440,
+    "totalSales": 113709.55
+  },
+  {
+    "vendorNumber": 229630,
+    "totalSales": 18543.04
+  },
+  {
+    "vendorNumber": 232420,
+    "totalSales": 207
+  },
+  {
+    "vendorNumber": 232600,
+    "totalSales": 5348.75
+  },
+  {
+    "vendorNumber": 234250,
+    "totalSales": 12211
+  },
+  {
+    "vendorNumber": 235000,
+    "totalSales": 85443.39
+  },
+  {
+    "vendorNumber": 235660,
+    "totalSales": 51586.9
+  },
+  {
+    "vendorNumber": 239540,
+    "totalSales": 22668.71
+  },
+  {
+    "vendorNumber": 242200,
+    "totalSales": 17689
+  },
+  {
+    "vendorNumber": 242520,
+    "totalSales": 586.5
+  },
+  {
+    "vendorNumber": 243400,
+    "totalSales": 651.82
+  },
+  {
+    "vendorNumber": 245190,
+    "totalSales": 32018.55
+  },
+  {
+    "vendorNumber": 246270,
+    "totalSales": 125
+  },
+  {
+    "vendorNumber": 247340,
+    "totalSales": 8604.5
+  },
+  {
+    "vendorNumber": 248040,
+    "totalSales": 76157.1
+  },
+  {
+    "vendorNumber": 248390,
+    "totalSales": 2983.46
+  },
+  {
+    "vendorNumber": 250470,
+    "totalSales": 14685.15
+  },
+  {
+    "vendorNumber": 252250,
+    "totalSales": 36896
+  },
+  {
+    "vendorNumber": 252270,
+    "totalSales": 6672.1
+  },
+  {
+    "vendorNumber": 252460,
+    "totalSales": 23505.13
+  },
+  {
+    "vendorNumber": 252830,
+    "totalSales": 5516.71
+  },
+  {
+    "vendorNumber": 255140,
+    "totalSales": 8370
+  },
+  {
+    "vendorNumber": 259830,
+    "totalSales": 8320.22
+  },
+  {
+    "vendorNumber": 261290,
+    "totalSales": 425.7
+  },
+  {
+    "vendorNumber": 262730,
+    "totalSales": 55355.71
+  },
+  {
+    "vendorNumber": 262950,
+    "totalSales": 27487.04
+  },
+  {
+    "vendorNumber": 266640,
+    "totalSales": 5685.55
+  },
+  {
+    "vendorNumber": 268240,
+    "totalSales": 31822.5
+  },
+  {
+    "vendorNumber": 268940,
+    "totalSales": 33523.55
+  },
+  {
+    "vendorNumber": 269570,
+    "totalSales": 19837.85
+  },
+  {
+    "vendorNumber": 269640,
+    "totalSales": 13429.15
+  },
+  {
+    "vendorNumber": 270740,
+    "totalSales": 48447.03
+  },
+  {
+    "vendorNumber": 270770,
+    "totalSales": 22196.96
+  },
+  {
+    "vendorNumber": 271810,
+    "totalSales": 20839.6
+  },
+  {
+    "vendorNumber": 273380,
+    "totalSales": 16389.77
+  },
+  {
+    "vendorNumber": 276570,
+    "totalSales": 13393.5
+  },
+  {
+    "vendorNumber": 277450,
+    "totalSales": 612.96
+  },
+  {
+    "vendorNumber": 278400,
+    "totalSales": 16820.76
+  },
+  {
+    "vendorNumber": 279600,
+    "totalSales": 5007.8
+  },
+  {
+    "vendorNumber": 282460,
+    "totalSales": 7881.38
+  },
+  {
+    "vendorNumber": 283520,
+    "totalSales": 7780.5
+  },
+  {
+    "vendorNumber": 286980,
+    "totalSales": 3139.69
+  },
+  {
+    "vendorNumber": 287550,
+    "totalSales": 11373.45
+  },
+  {
+    "vendorNumber": 287820,
+    "totalSales": 12292.77
+  },
+  {
+    "vendorNumber": 289020,
+    "totalSales": 96.62
+  },
+  {
+    "vendorNumber": 289420,
+    "totalSales": 50357.8
+  },
+  {
+    "vendorNumber": 289520,
+    "totalSales": 10188.3
+  },
+  {
+    "vendorNumber": 289730,
+    "totalSales": 5184
+  },
+  {
+    "vendorNumber": 289750,
+    "totalSales": 2576
+  },
+  {
+    "vendorNumber": 291030,
+    "totalSales": 11725
+  },
+  {
+    "vendorNumber": 293200,
+    "totalSales": 410.8
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "customerNumber": 2,
+    "customerName": "ALAMO CAFE'S"
+  },
+  {
+    "customerNumber": 114,
+    "customerName": "BREAKFAST HOUSE"
+  },
+  {
+    "customerNumber": 173,
+    "customerName": "PINTHOUSE PIZZA"
+  },
+  {
+    "customerNumber": 191,
+    "customerName": "YMCA OF GREATER HOUSTON"
+  },
+  {
+    "customerNumber": 198,
+    "customerName": "TIA JUANA'S"
+  },
+  {
+    "customerNumber": 216,
+    "customerName": "HEAD START OF GREATER DALLAS, INC."
+  },
+  {
+    "customerNumber": 225,
+    "customerName": "CHINA ROSE"
+  },
+  {
+    "customerNumber": 228,
+    "customerName": "SIRLOIN STOCKADE ACCOUNTS-T. FORD"
+  },
+  {
+    "customerNumber": 236,
+    "customerName": "BURGER HOUSE ACCOUNTS"
+  },
+  {
+    "customerNumber": 248,
+    "customerName": "THREADGILLS SERVICE STATION"
+  },
+  {
+    "customerNumber": 257,
+    "customerName": "PHIL'S ICE HOUSE LLC"
+  },
+  {
+    "customerNumber": 282,
+    "customerName": "Royal Blue Grocery"
+  },
+  {
+    "customerNumber": 303,
+    "customerName": "CHILOSO'S MEXICAN BISTRO"
+  },
+  {
+    "customerNumber": 309,
+    "customerName": "B J'S PIZZA RESTAURANT"
+  },
+  {
+    "customerNumber": 378,
+    "customerName": "KOKO LOKO ACCOUNTS"
+  },
+  {
+    "customerNumber": 458,
+    "customerName": "WOK INN ACCOUNTS"
+  },
+  {
+    "customerNumber": 566,
+    "customerName": "BLUE ONION ACCOUNTS"
+  },
+  {
+    "customerNumber": 602,
+    "customerName": "BABY ACAPULCO ACCOUNTS"
+  },
+  {
+    "customerNumber": 711,
+    "customerName": "KHAN'S GRILL ACCOUNTS"
+  },
+  {
+    "customerNumber": 713,
+    "customerName": "CREATIVE CARE/FOR CHILDREN ONLY ACCOUNTS"
+  },
+  {
+    "customerNumber": 727,
+    "customerName": "NORTHSHORE ENTERTAINMENT/ROCKPORT CINEMA"
+  },
+  {
+    "customerNumber": 776,
+    "customerName": "I FRATELLI ACCOUNTS"
+  },
+  {
+    "customerNumber": 799,
+    "customerName": "DOUBLE DAVES PIZZA ACCOUNTS"
+  },
+  {
+    "customerNumber": 825,
+    "customerName": "HYDE PARK ACCOUNTS"
+  },
+  {
+    "customerNumber": 835,
+    "customerName": "Herman Son's Camps"
+  },
+  {
+    "customerNumber": 840,
+    "customerName": "Liberty Burger"
+  },
+  {
+    "customerNumber": 875,
+    "customerName": "BOY SCOUTS OF AMERICA"
+  },
+  {
+    "customerNumber": 900,
+    "customerName": "BUBBA'S & BABE'S-ROVIN INC."
+  },
+  {
+    "customerNumber": 902,
+    "customerName": "GREEN VEGETARIAN CUISINE"
+  },
+  {
+    "customerNumber": 908,
+    "customerName": "Huisache Grill"
+  },
+  {
+    "customerNumber": 925,
+    "customerName": "St. Judes"
+  },
+  {
+    "customerNumber": 942,
+    "customerName": "CHUY'S OPCO INC.-THREE STAR MANAGEMENT"
+  },
+  {
+    "customerNumber": 959,
+    "customerName": "JUICELAND"
+  },
+  {
+    "customerNumber": 972,
+    "customerName": "Kerbey Lane"
+  },
+  {
+    "customerNumber": 979,
+    "customerName": "Local Coffee"
+  },
+  {
+    "customerNumber": 991,
+    "customerName": "MATINEE CAFE"
+  },
+  {
+    "customerNumber": 59,
+    "customerName": "TAQUERIAS ARANDAS ACCOUNTS"
+  },
+  {
+    "customerNumber": 133,
+    "customerName": "CABO BOB'S BURRITOS LLC"
+  },
+  {
+    "customerNumber": 155,
+    "customerName": "RUSSO'S NEW YORK PIZZERIA"
+  },
+  {
+    "customerNumber": 185,
+    "customerName": "UNCLE'S CONVENIENCE STORES-WTG FUELS INC"
+  },
+  {
+    "customerNumber": 306,
+    "customerName": "HERSCHEL'S RESTAURANTS"
+  },
+  {
+    "customerNumber": 307,
+    "customerName": "ANTOJITOS YOLIS ACCOUNTS"
+  },
+  {
+    "customerNumber": 406,
+    "customerName": "THE STORE ACCOUNTS"
+  },
+  {
+    "customerNumber": 431,
+    "customerName": "TEX-BEST/EL TIGRE-LA LOMITA INC."
+  },
+  {
+    "customerNumber": 476,
+    "customerName": "STRIPES SSP PARTNERS"
+  },
+  {
+    "customerNumber": 539,
+    "customerName": "LOVES TRAVEL STOPS-CHESTER'S"
+  },
+  {
+    "customerNumber": 572,
+    "customerName": "SALATA ACCOUNTS"
+  },
+  {
+    "customerNumber": 633,
+    "customerName": "PARENT CHILD ACCOUNTS"
+  },
+  {
+    "customerNumber": 682,
+    "customerName": "CLEARSPRINGS RESTAURANT"
+  },
+  {
+    "customerNumber": 785,
+    "customerName": "STERLING AFFAIRS ACCOUNTS"
+  },
+  {
+    "customerNumber": 808,
+    "customerName": "WHOLEFOOD ACCOUNTS"
+  },
+  {
+    "customerNumber": 841,
+    "customerName": "HEB Restaurants"
+  },
+  {
+    "customerNumber": 844,
+    "customerName": "Camp Mystic"
+  },
+  {
+    "customerNumber": 858,
+    "customerName": "K-Bobs"
+  },
+  {
+    "customerNumber": 866,
+    "customerName": "DAIRY QUEEN-TEXAS"
+  },
+  {
+    "customerNumber": 901,
+    "customerName": "HEARTHSTONE BAKERY CAFE"
+  },
+  {
+    "customerNumber": 914,
+    "customerName": "HEB DEPARTMENT ACCOUNTS"
+  },
+  {
+    "customerNumber": 937,
+    "customerName": "TACO VILLA ACCOUNTS"
+  },
+  {
+    "customerNumber": 951,
+    "customerName": "TACODELI ACCOUNTS"
+  },
+  {
+    "customerNumber": 970,
+    "customerName": "LOS BARRIOS"
+  },
+  {
+    "customerNumber": 977,
+    "customerName": "MAMA'S DAUGHTER'S DINER"
+  },
+  {
+    "customerNumber": 990,
+    "customerName": "TAQUERIA EL ZARAPE"
+  },
+  {
+    "customerNumber": 993,
+    "customerName": "UNIVERSITY HEALTH SYSTEM"
+  }
+]

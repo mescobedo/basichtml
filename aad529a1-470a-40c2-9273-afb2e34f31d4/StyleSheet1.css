@@ -1,0 +1,32 @@
+﻿body {
+}
+table.data
+{
+    border: ridge 1px #000000;
+    border-collapse: collapse;
+    padding: 6px;
+     margin: 0 auto;
+}
+
+table.data td
+{
+    border: ridge 1px #000000;
+    border-collapse: collapse;
+    padding: 6px;
+}
+
+table.data th
+{
+    border: ridge 1px #000000;
+    border-collapse: collapse;
+    padding: 6px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-size: 9pt;
+    background-color: rgb(12, 35, 64);
+}
+
+.even {
+    background-color: lightgray !important;
+}

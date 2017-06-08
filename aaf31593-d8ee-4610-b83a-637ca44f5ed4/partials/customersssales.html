@@ -1,0 +1,21 @@
+﻿<br />
+<table class="table table-striped" id="allCustomersSalesTables">
+    <thead>
+        <tr>
+            <th class="text-left">Customer Number - Name </th>
+            <th class="text-right">Last Year</th>
+            <th class="text-right">Current Year</th>
+            <th class="text-right">Change in Sales</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each this}}
+        <tr>
+            <td class="text-left">{{number}} - {{name}}</td>
+            <td class="text-right">${{format-currency lySales}}</td>
+            <td class="text-right">${{format-currency cySales}}</td>
+            <td class="text-right">${{format-currency deltaSales}}</td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>

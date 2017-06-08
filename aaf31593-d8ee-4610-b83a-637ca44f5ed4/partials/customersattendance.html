@@ -1,0 +1,20 @@
+﻿<br />
+<p class="text-right bold"><strong>Use this search to view a single customer or vendor</strong></p>
+<table class="table table-striped" id="allCustomersAttendanceTable">
+    <thead>
+        <tr>
+            <th class="text-left">Customer Number - Name </th>
+            <th class="text-left">Vendor Number - Name </th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each this}}
+        {{#each vendorsVisited}}
+        <tr>
+            <td>{{../number}} - {{../name}}</td>
+            <td class="text-left">{{number}} - {{name}}</td>
+        </tr>        
+        {{/each}}
+        {{/each}}
+    </tbody>
+</table>

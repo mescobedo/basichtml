@@ -1,0 +1,2102 @@
+﻿[
+  {
+    "name": "GREAT AMERICAN SEAFOOD IMPORT CO.",
+    "number": 269640,
+    "cySales": "9,847.35",
+    "lySales": "13,429.15",
+    "deltaSales": "-3,581.80",
+    "cyCustomers": 34,
+    "lyCustomers": 28,
+    "deltaCustomers": 6
+  },
+  {
+    "name": "CAL-MAINE FOODS, INC.",
+    "number": 107212,
+    "cySales": "22,285.80",
+    "lySales": "33,552.90",
+    "deltaSales": "-11,267.10",
+    "cyCustomers": 113,
+    "lyCustomers": 107,
+    "deltaCustomers": 6
+  },
+  {
+    "name": "GRIMMWAY ENTERPRISES, INC.",
+    "number": 226450,
+    "cySales": "1,162.47",
+    "lySales": "8,227.73",
+    "deltaSales": "-7,065.26",
+    "cyCustomers": 41,
+    "lyCustomers": 39,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "TYSON FOODS, INC.",
+    "number": 105333,
+    "cySales": "1,634,735.13",
+    "lySales": "1,694,442.00",
+    "deltaSales": "-59,706.87",
+    "cyCustomers": 195,
+    "lyCustomers": 168,
+    "deltaCustomers": 27
+  },
+  {
+    "name": "SUNNY FRESH FOODS/CARGILL",
+    "number": 134899,
+    "cySales": "13,558.26",
+    "lySales": "48,868.61",
+    "deltaSales": "-35,310.35",
+    "cyCustomers": 24,
+    "lyCustomers": 16,
+    "deltaCustomers": 8
+  },
+  {
+    "name": "ADVANCEPIERRE FOODS",
+    "number": 157250,
+    "cySales": "46,733.60",
+    "lySales": "91,431.17",
+    "deltaSales": "-44,697.57",
+    "cyCustomers": 92,
+    "lyCustomers": 92,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "HORMEL FOODS",
+    "number": 102407,
+    "cySales": "112.68",
+    "lySales": "37,117.15",
+    "deltaSales": "-37,004.47",
+    "cyCustomers": 21,
+    "lyCustomers": 47,
+    "deltaCustomers": -26
+  },
+  {
+    "name": "HOUSTON SEAFOOD",
+    "number": 234250,
+    "cySales": "13,100.00",
+    "lySales": "12,211.00",
+    "deltaSales": "889.00",
+    "cyCustomers": 9,
+    "lyCustomers": 14,
+    "deltaCustomers": -5
+  },
+  {
+    "name": "AMERICAN ROLAND FOOD CORPORATION",
+    "number": 105481,
+    "cySales": "75,480.52",
+    "lySales": "76,225.61",
+    "deltaSales": "-745.09",
+    "cyCustomers": 86,
+    "lyCustomers": 82,
+    "deltaCustomers": 4
+  },
+  {
+    "name": "EDDY PACKING CO., INC.",
+    "number": 200200,
+    "cySales": "145,975.05",
+    "lySales": "156,370.51",
+    "deltaSales": "-10,395.46",
+    "cyCustomers": 60,
+    "lyCustomers": 62,
+    "deltaCustomers": -2
+  },
+  {
+    "name": "SAPUTO CHEESE",
+    "number": 225250,
+    "cySales": "32,101.96",
+    "lySales": "44,598.43",
+    "deltaSales": "-12,496.47",
+    "cyCustomers": 34,
+    "lyCustomers": 33,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "SCHREIBER CHEESE",
+    "number": 168040,
+    "cySales": "221,863.26",
+    "lySales": "372,414.84",
+    "deltaSales": "-150,551.58",
+    "cyCustomers": 131,
+    "lyCustomers": 119,
+    "deltaCustomers": 12
+  },
+  {
+    "name": "CAMPBELL FOODSERVICE COMPANY",
+    "number": 100986,
+    "cySales": "5,137.90",
+    "lySales": "11,293.29",
+    "deltaSales": "-6,155.39",
+    "cyCustomers": 74,
+    "lyCustomers": 76,
+    "deltaCustomers": -2
+  },
+  {
+    "name": "VENTURA FOODS, INC.",
+    "number": 165690,
+    "cySales": "31,578.37",
+    "lySales": "41,158.18",
+    "deltaSales": "-9,579.81",
+    "cyCustomers": 116,
+    "lyCustomers": 108,
+    "deltaCustomers": 8
+  },
+  {
+    "name": "ROTELLA BAKERIES, INC.",
+    "number": 190030,
+    "cySales": "38,690.35",
+    "lySales": "43,679.13",
+    "deltaSales": "-4,988.78",
+    "cyCustomers": 60,
+    "lyCustomers": 61,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "KNOUSE FOODS, INC.",
+    "number": 102776,
+    "cySales": "2,194.88",
+    "lySales": "23,350.87",
+    "deltaSales": "-21,155.99",
+    "cyCustomers": 31,
+    "lyCustomers": 49,
+    "deltaCustomers": -18
+  },
+  {
+    "name": "UNILEVER BESTFOODS",
+    "number": 107115,
+    "cySales": "110,684.15",
+    "lySales": "100,381.16",
+    "deltaSales": "10,302.99",
+    "cyCustomers": 101,
+    "lyCustomers": 86,
+    "deltaCustomers": 15
+  },
+  {
+    "name": "NESTLE BRANDS",
+    "number": 100994,
+    "cySales": "21,526.66",
+    "lySales": "32,649.63",
+    "deltaSales": "-11,122.97",
+    "cyCustomers": 66,
+    "lyCustomers": 59,
+    "deltaCustomers": 7
+  },
+  {
+    "name": "NESTLE USA, INC.",
+    "number": 102806,
+    "cySales": "7,360.61",
+    "lySales": "12,120.43",
+    "deltaSales": "-4,759.82",
+    "cyCustomers": 45,
+    "lyCustomers": 36,
+    "deltaCustomers": 9
+  },
+  {
+    "name": "MCCAIN FOODSERVICE",
+    "number": 103721,
+    "cySales": "13,454.39",
+    "lySales": "15,051.16",
+    "deltaSales": "-1,596.77",
+    "cyCustomers": 43,
+    "lyCustomers": 38,
+    "deltaCustomers": 5
+  },
+  {
+    "name": "TRINIDAD BENHAM CORP",
+    "number": 195580,
+    "cySales": "19,343.91",
+    "lySales": "12,499.45",
+    "deltaSales": "6,844.46",
+    "cyCustomers": 65,
+    "lyCustomers": 44,
+    "deltaCustomers": 21
+  },
+  {
+    "name": "HEINZ (AMERICOLD FROZEN)",
+    "number": 229630,
+    "cySales": "2,121.31",
+    "lySales": "18,543.04",
+    "deltaSales": "-16,421.73",
+    "cyCustomers": 19,
+    "lyCustomers": 21,
+    "deltaCustomers": -2
+  },
+  {
+    "name": "MONDELEZ",
+    "number": 270740,
+    "cySales": "27,300.38",
+    "lySales": "48,447.03",
+    "deltaSales": "-21,146.65",
+    "cyCustomers": 90,
+    "lyCustomers": 89,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "SUGAR FOODS CORPORATION",
+    "number": 104922,
+    "cySales": "21,201.67",
+    "lySales": "17,846.13",
+    "deltaSales": "3,355.54",
+    "cyCustomers": 106,
+    "lyCustomers": 95,
+    "deltaCustomers": 11
+  },
+  {
+    "name": "SCHWAN'S FOOD SERVICE",
+    "number": 180280,
+    "cySales": "54,488.92",
+    "lySales": "77,301.39",
+    "deltaSales": "-22,812.47",
+    "cyCustomers": 82,
+    "lyCustomers": 75,
+    "deltaCustomers": 7
+  },
+  {
+    "name": "SENECA FOODS CORP.",
+    "number": 189010,
+    "cySales": "93,040.05",
+    "lySales": "116,726.43",
+    "deltaSales": "-23,686.38",
+    "cyCustomers": 116,
+    "lyCustomers": 104,
+    "deltaCustomers": 12
+  },
+  {
+    "name": "CONAGRA FOODS / REFRIGERATED",
+    "number": 232600,
+    "cySales": "1,613.43",
+    "lySales": "5,348.75",
+    "deltaSales": "-3,735.32",
+    "cyCustomers": 15,
+    "lyCustomers": 34,
+    "deltaCustomers": -19
+  },
+  {
+    "name": "DIAMOND CRYSTAL",
+    "number": 101559,
+    "cySales": "14,867.63",
+    "lySales": "26,991.79",
+    "deltaSales": "-12,124.16",
+    "cyCustomers": 76,
+    "lyCustomers": 95,
+    "deltaCustomers": -19
+  },
+  {
+    "name": "J.M. SMUCKER COMPANY COFFEE & TEA",
+    "number": 147680,
+    "cySales": "33,319.73",
+    "lySales": "69,714.04",
+    "deltaSales": "-36,394.31",
+    "cyCustomers": 131,
+    "lyCustomers": 141,
+    "deltaCustomers": -10
+  },
+  {
+    "name": "LYONS MAGNUS",
+    "number": 197630,
+    "cySales": "4,464.35",
+    "lySales": "42,670.45",
+    "deltaSales": "-38,206.10",
+    "cyCustomers": 46,
+    "lyCustomers": 48,
+    "deltaCustomers": -2
+  },
+  {
+    "name": "CONAGRA FOODS / HUNT WESSON",
+    "number": 102466,
+    "cySales": "154,632.76",
+    "lySales": "186,908.96",
+    "deltaSales": "-32,276.20",
+    "cyCustomers": 164,
+    "lyCustomers": 147,
+    "deltaCustomers": 17
+  },
+  {
+    "name": "LABATT REPLENISHMENT",
+    "number": 190390,
+    "cySales": "207,166.98",
+    "lySales": "168,210.13",
+    "deltaSales": "38,956.85",
+    "cyCustomers": 197,
+    "lyCustomers": 180,
+    "deltaCustomers": 17
+  },
+  {
+    "name": "UNITED SALT CORPORATION",
+    "number": 136646,
+    "cySales": "7,028.76",
+    "lySales": "7,280.62",
+    "deltaSales": "-251.86",
+    "cyCustomers": 99,
+    "lyCustomers": 89,
+    "deltaCustomers": 10
+  },
+  {
+    "name": "RICOS PRODUCTS CO, INC",
+    "number": 248390,
+    "cySales": "260.74",
+    "lySales": "2,983.46",
+    "deltaSales": "-2,722.72",
+    "cyCustomers": 15,
+    "lyCustomers": 11,
+    "deltaCustomers": 4
+  },
+  {
+    "name": "NEW MEXICO FOOD DISTRIBUTORS INC.",
+    "number": 252460,
+    "cySales": "0.00",
+    "lySales": "23,505.13",
+    "deltaSales": "-23,505.13",
+    "cyCustomers": 0,
+    "lyCustomers": 10,
+    "deltaCustomers": -10
+  },
+  {
+    "name": "BUENO",
+    "number": 192970,
+    "cySales": "19,209.83",
+    "lySales": "574.68",
+    "deltaSales": "18,635.15",
+    "cyCustomers": 14,
+    "lyCustomers": 3,
+    "deltaCustomers": 11
+  },
+  {
+    "name": "AZAR NUT",
+    "number": 169790,
+    "cySales": "23,714.09",
+    "lySales": "32,366.96",
+    "deltaSales": "-8,652.87",
+    "cyCustomers": 75,
+    "lyCustomers": 73,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "PINNACLE FOODS CORPORATION",
+    "number": 183130,
+    "cySales": "885.60",
+    "lySales": "11,897.46",
+    "deltaSales": "-11,011.86",
+    "cyCustomers": 28,
+    "lyCustomers": 45,
+    "deltaCustomers": -17
+  },
+  {
+    "name": "HERSHEY FOODS CORPORATION",
+    "number": 102318,
+    "cySales": "9,715.13",
+    "lySales": "18,599.42",
+    "deltaSales": "-8,884.29",
+    "cyCustomers": 56,
+    "lyCustomers": 55,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "BAGCRAFT CORPORATION OF AMERICA",
+    "number": 186070,
+    "cySales": "4,082.31",
+    "lySales": "8,108.67",
+    "deltaSales": "-4,026.36",
+    "cyCustomers": 33,
+    "lyCustomers": 35,
+    "deltaCustomers": -2
+  },
+  {
+    "name": "ACS INDUSTRIES",
+    "number": 252250,
+    "cySales": "31,624.97",
+    "lySales": "36,896.00",
+    "deltaSales": "-5,271.03",
+    "cyCustomers": 146,
+    "lyCustomers": 136,
+    "deltaCustomers": 10
+  },
+  {
+    "name": "AEP INDUSTRIES INC",
+    "number": 214710,
+    "cySales": "123,430.80",
+    "lySales": "141,307.70",
+    "deltaSales": "-17,876.90",
+    "cyCustomers": 181,
+    "lyCustomers": 165,
+    "deltaCustomers": 16
+  },
+  {
+    "name": "ROYAL PAPER PRODUCTS",
+    "number": 104388,
+    "cySales": "25,478.00",
+    "lySales": "24,786.63",
+    "deltaSales": "691.37",
+    "cyCustomers": 111,
+    "lyCustomers": 105,
+    "deltaCustomers": 6
+  },
+  {
+    "name": "BUNZL SAN ANTONIO",
+    "number": 105686,
+    "cySales": "16,961.00",
+    "lySales": "26,586.43",
+    "deltaSales": "-9,625.43",
+    "cyCustomers": 79,
+    "lyCustomers": 83,
+    "deltaCustomers": -4
+  },
+  {
+    "name": "WILLSON DAVIS COMPANY",
+    "number": 135003,
+    "cySales": "247,328.59",
+    "lySales": "308,346.25",
+    "deltaSales": "-61,017.66",
+    "cyCustomers": 148,
+    "lyCustomers": 141,
+    "deltaCustomers": 7
+  },
+  {
+    "name": "LIPMAN PRODUCE (FORMERLY COMBS)",
+    "number": 176890,
+    "cySales": "7,700.10",
+    "lySales": "8,489.35",
+    "deltaSales": "-789.25",
+    "cyCustomers": 42,
+    "lyCustomers": 30,
+    "deltaCustomers": 12
+  },
+  {
+    "name": "GREGORY PACKAGING INC.",
+    "number": 252830,
+    "cySales": "1,163.37",
+    "lySales": "5,516.71",
+    "deltaSales": "-4,353.34",
+    "cyCustomers": 16,
+    "lyCustomers": 20,
+    "deltaCustomers": -4
+  },
+  {
+    "name": "SOUTH MILL - HOUSTON",
+    "number": 229440,
+    "cySales": "155,294.00",
+    "lySales": "113,709.55",
+    "deltaSales": "41,584.45",
+    "cyCustomers": 103,
+    "lyCustomers": 96,
+    "deltaCustomers": 7
+  },
+  {
+    "name": "RPE, INC.",
+    "number": 271810,
+    "cySales": "34,802.65",
+    "lySales": "20,839.60",
+    "deltaSales": "13,963.05",
+    "cyCustomers": 64,
+    "lyCustomers": 64,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "TOUCHSTONE AND ASSOCIATES",
+    "number": 120294,
+    "cySales": "169,832.00",
+    "lySales": "213,000.81",
+    "deltaSales": "-43,168.81",
+    "cyCustomers": 117,
+    "lyCustomers": 120,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "NINO'S FRESH CUT FRUIT & VEG., INC.",
+    "number": 224910,
+    "cySales": "12,904.65",
+    "lySales": "56,632.29",
+    "deltaSales": "-43,727.64",
+    "cyCustomers": 62,
+    "lyCustomers": 62,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "CALAVO GROWERS, INC.",
+    "number": 276570,
+    "cySales": "34,483.50",
+    "lySales": "13,393.50",
+    "deltaSales": "21,090.00",
+    "cyCustomers": 33,
+    "lyCustomers": 33,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "MUZZI FAMILY FARMS, LLC",
+    "number": 291030,
+    "cySales": "13,815.70",
+    "lySales": "11,725.00",
+    "deltaSales": "2,090.70",
+    "cyCustomers": 51,
+    "lyCustomers": 60,
+    "deltaCustomers": -9
+  },
+  {
+    "name": "MOTT'S",
+    "number": 139688,
+    "cySales": "11,767.08",
+    "lySales": "10,960.44",
+    "deltaSales": "806.64",
+    "cyCustomers": 40,
+    "lyCustomers": 41,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "GP CONSUMER PRODUCTS LP",
+    "number": 198790,
+    "cySales": "57,406.85",
+    "lySales": "69,913.20",
+    "deltaSales": "-12,506.35",
+    "cyCustomers": 46,
+    "lyCustomers": 61,
+    "deltaCustomers": -15
+  },
+  {
+    "name": "AQUA STAR USA CORP.",
+    "number": 248040,
+    "cySales": "74,639.00",
+    "lySales": "76,157.10",
+    "deltaSales": "-1,518.10",
+    "cyCustomers": 83,
+    "lyCustomers": 69,
+    "deltaCustomers": 14
+  },
+  {
+    "name": "KERRY INGREDIENTS & FLAVOURS",
+    "number": 102156,
+    "cySales": "3,286.82",
+    "lySales": "5,134.37",
+    "deltaSales": "-1,847.55",
+    "cyCustomers": 41,
+    "lyCustomers": 30,
+    "deltaCustomers": 11
+  },
+  {
+    "name": "SIMPLY FRESH FRUIT, INC.",
+    "number": 193780,
+    "cySales": "2,809.44",
+    "lySales": "6,985.11",
+    "deltaSales": "-4,175.67",
+    "cyCustomers": 16,
+    "lyCustomers": 15,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "DOLE PACKAGED FOODS COMPANY",
+    "number": 101028,
+    "cySales": "7,667.72",
+    "lySales": "23,898.39",
+    "deltaSales": "-16,230.67",
+    "cyCustomers": 23,
+    "lyCustomers": 26,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "CLOROX FOOD SERVICE PRODUCTS DIVISION",
+    "number": 116076,
+    "cySales": "0.00",
+    "lySales": "15,532.76",
+    "deltaSales": "-15,532.76",
+    "cyCustomers": 0,
+    "lyCustomers": 81,
+    "deltaCustomers": -81
+  },
+  {
+    "name": "MFI QUALITY FOODS",
+    "number": 198520,
+    "cySales": "0.00",
+    "lySales": "11,020.23",
+    "deltaSales": "-11,020.23",
+    "cyCustomers": 0,
+    "lyCustomers": 33,
+    "deltaCustomers": -33
+  },
+  {
+    "name": "NORPAC SERVICES INC.",
+    "number": 177030,
+    "cySales": "153,092.50",
+    "lySales": "76,139.23",
+    "deltaSales": "76,953.27",
+    "cyCustomers": 157,
+    "lyCustomers": 113,
+    "deltaCustomers": 44
+  },
+  {
+    "name": "KRAFT FROZEN & REFRIGERATED",
+    "number": 220430,
+    "cySales": "8,641.57",
+    "lySales": "13,885.32",
+    "deltaSales": "-5,243.75",
+    "cyCustomers": 50,
+    "lyCustomers": 40,
+    "deltaCustomers": 10
+  },
+  {
+    "name": "BAKER & BAKER/ H.C. BRILL COMPANY",
+    "number": 134309,
+    "cySales": "5,324.80",
+    "lySales": "7,220.27",
+    "deltaSales": "-1,895.47",
+    "cyCustomers": 14,
+    "lyCustomers": 10,
+    "deltaCustomers": 4
+  },
+  {
+    "name": "MORTON SALT, INC.",
+    "number": 103470,
+    "cySales": "11,597.87",
+    "lySales": "12,561.37",
+    "deltaSales": "-963.50",
+    "cyCustomers": 78,
+    "lyCustomers": 73,
+    "deltaCustomers": 5
+  },
+  {
+    "name": "J & J SNACK FOODS CORPORATION",
+    "number": 113832,
+    "cySales": "2,637.60",
+    "lySales": "7,363.60",
+    "deltaSales": "-4,726.00",
+    "cyCustomers": 21,
+    "lyCustomers": 17,
+    "deltaCustomers": 4
+  },
+  {
+    "name": "HILLSHIRE BRANDS",
+    "number": 118494,
+    "cySales": "180,504.50",
+    "lySales": "234,396.30",
+    "deltaSales": "-53,891.80",
+    "cyCustomers": 143,
+    "lyCustomers": 127,
+    "deltaCustomers": 16
+  },
+  {
+    "name": "QUAKER SALES & DISTRIBUTION, INC.",
+    "number": 104108,
+    "cySales": "7,548.03",
+    "lySales": "15,950.98",
+    "deltaSales": "-8,402.95",
+    "cyCustomers": 85,
+    "lyCustomers": 76,
+    "deltaCustomers": 9
+  },
+  {
+    "name": "DART CONTAINER CORPORATION",
+    "number": 112771,
+    "cySales": "442,005.91",
+    "lySales": "440,913.78",
+    "deltaSales": "1,092.13",
+    "cyCustomers": 201,
+    "lyCustomers": 184,
+    "deltaCustomers": 17
+  },
+  {
+    "name": "PPI-HEINZ NORTH AMERICA",
+    "number": 131199,
+    "cySales": "35,518.16",
+    "lySales": "43,076.51",
+    "deltaSales": "-7,558.35",
+    "cyCustomers": 107,
+    "lyCustomers": 104,
+    "deltaCustomers": 3
+  },
+  {
+    "name": "HOFFMASTER GROUP INC. B110149",
+    "number": 160050,
+    "cySales": "10,909.02",
+    "lySales": "13,047.16",
+    "deltaSales": "-2,138.14",
+    "cyCustomers": 22,
+    "lyCustomers": 18,
+    "deltaCustomers": 4
+  },
+  {
+    "name": "LONE STAR BAKERY, INC.",
+    "number": 103020,
+    "cySales": "640.40",
+    "lySales": "4,618.25",
+    "deltaSales": "-3,977.85",
+    "cyCustomers": 13,
+    "lyCustomers": 16,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "PERDUE FARMS",
+    "number": 195390,
+    "cySales": "27,936.80",
+    "lySales": "35,975.70",
+    "deltaSales": "-8,038.90",
+    "cyCustomers": 9,
+    "lyCustomers": 10,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "HEINZ NORTH AMERICA",
+    "number": 102237,
+    "cySales": "410,467.17",
+    "lySales": "350,312.80",
+    "deltaSales": "60,154.37",
+    "cyCustomers": 161,
+    "lyCustomers": 136,
+    "deltaCustomers": 25
+  },
+  {
+    "name": "MCILHENNY COMPANY",
+    "number": 103292,
+    "cySales": "7,184.39",
+    "lySales": "8,608.42",
+    "deltaSales": "-1,424.03",
+    "cyCustomers": 66,
+    "lyCustomers": 65,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "ISLAND OASIS FROZEN COCKTAIL CO.",
+    "number": 195710,
+    "cySales": "0.00",
+    "lySales": "3,366.00",
+    "deltaSales": "-3,366.00",
+    "cyCustomers": 3,
+    "lyCustomers": 4,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "VITALITY FOODSERVICE, INC.",
+    "number": 211880,
+    "cySales": "0.00",
+    "lySales": "1,403.31",
+    "deltaSales": "-1,403.31",
+    "cyCustomers": 4,
+    "lyCustomers": 1,
+    "deltaCustomers": 3
+  },
+  {
+    "name": "KELLOGG SALES COMPANY",
+    "number": 102687,
+    "cySales": "17,989.04",
+    "lySales": "64,311.56",
+    "deltaSales": "-46,322.52",
+    "cyCustomers": 82,
+    "lyCustomers": 73,
+    "deltaCustomers": 9
+  },
+  {
+    "name": "KRAFT FOODS",
+    "number": 102067,
+    "cySales": "28,107.11",
+    "lySales": "49,408.97",
+    "deltaSales": "-21,301.86",
+    "cyCustomers": 127,
+    "lyCustomers": 117,
+    "deltaCustomers": 10
+  },
+  {
+    "name": "AJINOMOTO WINDSOR INC.",
+    "number": 114626,
+    "cySales": "28,466.15",
+    "lySales": "31,441.33",
+    "deltaSales": "-2,975.18",
+    "cyCustomers": 64,
+    "lyCustomers": 63,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "SHAWNEE MILLING COMPANY",
+    "number": 219480,
+    "cySales": "10,847.76",
+    "lySales": "24,780.66",
+    "deltaSales": "-13,932.90",
+    "cyCustomers": 115,
+    "lyCustomers": 100,
+    "deltaCustomers": 15
+  },
+  {
+    "name": "ATALANTA CORPORATION",
+    "number": 106062,
+    "cySales": "64,109.87",
+    "lySales": "114,197.83",
+    "deltaSales": "-50,087.96",
+    "cyCustomers": 53,
+    "lyCustomers": 53,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "BUSH BROTHERS & COMPANY",
+    "number": 100846,
+    "cySales": "6,029.28",
+    "lySales": "23,774.40",
+    "deltaSales": "-17,745.12",
+    "cyCustomers": 34,
+    "lyCustomers": 70,
+    "deltaCustomers": -36
+  },
+  {
+    "name": "HANOVER FOOD SERVICE",
+    "number": 217790,
+    "cySales": "15,725.25",
+    "lySales": "19,685.97",
+    "deltaSales": "-3,960.72",
+    "cyCustomers": 60,
+    "lyCustomers": 53,
+    "deltaCustomers": 7
+  },
+  {
+    "name": "TETLEY HARRIS FOOD GROUP",
+    "number": 202280,
+    "cySales": "13,281.64",
+    "lySales": "17,079.35",
+    "deltaSales": "-3,797.71",
+    "cyCustomers": 60,
+    "lyCustomers": 50,
+    "deltaCustomers": 10
+  },
+  {
+    "name": "NIAGARA BOTTLING, LLC",
+    "number": 287820,
+    "cySales": "7,579.83",
+    "lySales": "12,292.77",
+    "deltaSales": "-4,712.94",
+    "cyCustomers": 67,
+    "lyCustomers": 57,
+    "deltaCustomers": 10
+  },
+  {
+    "name": "UNCLE BEN'S (FOOD)-DALLAS",
+    "number": 185240,
+    "cySales": "7,095.32",
+    "lySales": "14,586.85",
+    "deltaSales": "-7,491.53",
+    "cyCustomers": 43,
+    "lyCustomers": 47,
+    "deltaCustomers": -4
+  },
+  {
+    "name": "CAJUN CHEF PRODUCTS INC.",
+    "number": 100862,
+    "cySales": "3,893.15",
+    "lySales": "5,491.35",
+    "deltaSales": "-1,598.20",
+    "cyCustomers": 44,
+    "lyCustomers": 35,
+    "deltaCustomers": 9
+  },
+  {
+    "name": "EMPACADORA DEL GOLFO USA LLC",
+    "number": 108022,
+    "cySales": "105,604.38",
+    "lySales": "93,566.24",
+    "deltaSales": "12,038.14",
+    "cyCustomers": 83,
+    "lyCustomers": 60,
+    "deltaCustomers": 23
+  },
+  {
+    "name": "IDAHOAN FOODS, LLC",
+    "number": 266640,
+    "cySales": "1,647.30",
+    "lySales": "5,685.55",
+    "deltaSales": "-4,038.25",
+    "cyCustomers": 10,
+    "lyCustomers": 12,
+    "deltaCustomers": -2
+  },
+  {
+    "name": "BASIC AMERICAN FOODS",
+    "number": 100463,
+    "cySales": "49,459.91",
+    "lySales": "69,292.94",
+    "deltaSales": "-19,833.03",
+    "cyCustomers": 54,
+    "lyCustomers": 48,
+    "deltaCustomers": 6
+  },
+  {
+    "name": "CASCADE TISSUE",
+    "number": 214650,
+    "cySales": "56,731.50",
+    "lySales": "73,706.75",
+    "deltaSales": "-16,975.25",
+    "cyCustomers": 115,
+    "lyCustomers": 118,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "J.R. SIMPLOT COMPANY",
+    "number": 130885,
+    "cySales": "203,699.82",
+    "lySales": "302,302.31",
+    "deltaSales": "-98,602.49",
+    "cyCustomers": 140,
+    "lyCustomers": 119,
+    "deltaCustomers": 21
+  },
+  {
+    "name": "CLEMENTS FOODS COMPANY",
+    "number": 101230,
+    "cySales": "3,587.87",
+    "lySales": "10,525.17",
+    "deltaSales": "-6,937.30",
+    "cyCustomers": 71,
+    "lyCustomers": 71,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "MEXQUISITE, INC.",
+    "number": 270770,
+    "cySales": "24,320.70",
+    "lySales": "22,196.96",
+    "deltaSales": "2,123.74",
+    "cyCustomers": 10,
+    "lyCustomers": 8,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "RED GOLD INC",
+    "number": 210810,
+    "cySales": "3,894.14",
+    "lySales": "13,100.15",
+    "deltaSales": "-9,206.01",
+    "cyCustomers": 62,
+    "lyCustomers": 63,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "KENS FOODS",
+    "number": 173570,
+    "cySales": "53,270.44",
+    "lySales": "92,816.76",
+    "deltaSales": "-39,546.32",
+    "cyCustomers": 154,
+    "lyCustomers": 145,
+    "deltaCustomers": 9
+  },
+  {
+    "name": "MIGHTY LEAF TEA",
+    "number": 289750,
+    "cySales": "4,802.00",
+    "lySales": "2,576.00",
+    "deltaSales": "2,226.00",
+    "cyCustomers": 8,
+    "lyCustomers": 1,
+    "deltaCustomers": 7
+  },
+  {
+    "name": "GEHL FOODS, INC",
+    "number": 183860,
+    "cySales": "42,097.63",
+    "lySales": "51,353.46",
+    "deltaSales": "-9,255.83",
+    "cyCustomers": 60,
+    "lyCustomers": 51,
+    "deltaCustomers": 9
+  },
+  {
+    "name": "STARKIST CO.",
+    "number": 104876,
+    "cySales": "1,518.50",
+    "lySales": "498.57",
+    "deltaSales": "1,019.93",
+    "cyCustomers": 5,
+    "lyCustomers": 8,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "RUDY'S",
+    "number": 196260,
+    "cySales": "65,943.59",
+    "lySales": "70,414.61",
+    "deltaSales": "-4,471.02",
+    "cyCustomers": 89,
+    "lyCustomers": 96,
+    "deltaCustomers": -7
+  },
+  {
+    "name": "LAND O' LAKES, INC.",
+    "number": 102849,
+    "cySales": "738,635.31",
+    "lySales": "616,796.61",
+    "deltaSales": "121,838.70",
+    "cyCustomers": 142,
+    "lyCustomers": 130,
+    "deltaCustomers": 12
+  },
+  {
+    "name": "BEST MAID PRODUCTS INC.",
+    "number": 100552,
+    "cySales": "16,098.36",
+    "lySales": "22,929.78",
+    "deltaSales": "-6,831.42",
+    "cyCustomers": 117,
+    "lyCustomers": 112,
+    "deltaCustomers": 5
+  },
+  {
+    "name": "SOUTHEASTERN MILLS, INC.",
+    "number": 289020,
+    "cySales": "272.14",
+    "lySales": "96.62",
+    "deltaSales": "175.52",
+    "cyCustomers": 13,
+    "lyCustomers": 5,
+    "deltaCustomers": 8
+  },
+  {
+    "name": "PRECISION FOODS, INC.",
+    "number": 148547,
+    "cySales": "2,097.65",
+    "lySales": "4,146.84",
+    "deltaSales": "-2,049.19",
+    "cyCustomers": 40,
+    "lyCustomers": 33,
+    "deltaCustomers": 7
+  },
+  {
+    "name": "DAISY BRAND, LLC",
+    "number": 121126,
+    "cySales": "77,740.95",
+    "lySales": "75,673.84",
+    "deltaSales": "2,067.11",
+    "cyCustomers": 86,
+    "lyCustomers": 71,
+    "deltaCustomers": 15
+  },
+  {
+    "name": "C.H. GUENTHER & SON INC.",
+    "number": 103926,
+    "cySales": "16,409.70",
+    "lySales": "20,066.82",
+    "deltaSales": "-3,657.12",
+    "cyCustomers": 58,
+    "lyCustomers": 48,
+    "deltaCustomers": 10
+  },
+  {
+    "name": "STOUFFER/NESTLE BRANDS",
+    "number": 104914,
+    "cySales": "3,814.84",
+    "lySales": "5,128.01",
+    "deltaSales": "-1,313.17",
+    "cyCustomers": 21,
+    "lyCustomers": 13,
+    "deltaCustomers": 8
+  },
+  {
+    "name": "FRITO LAY, INC.",
+    "number": 123331,
+    "cySales": "20,112.11",
+    "lySales": "54,772.78",
+    "deltaSales": "-34,660.67",
+    "cyCustomers": 105,
+    "lyCustomers": 85,
+    "deltaCustomers": 20
+  },
+  {
+    "name": "MARIO CAMACHO FOODS, LLC",
+    "number": 235660,
+    "cySales": "72,844.21",
+    "lySales": "51,586.90",
+    "deltaSales": "21,257.31",
+    "cyCustomers": 77,
+    "lyCustomers": 51,
+    "deltaCustomers": 26
+  },
+  {
+    "name": "THE MORRISON MILLING COMPANY",
+    "number": 111449,
+    "cySales": "2,961.80",
+    "lySales": "25,255.95",
+    "deltaSales": "-22,294.15",
+    "cyCustomers": 14,
+    "lyCustomers": 14,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "GENERAL MILLS, INC.",
+    "number": 102075,
+    "cySales": "11,439.24",
+    "lySales": "45,389.05",
+    "deltaSales": "-33,949.81",
+    "cyCustomers": 50,
+    "lyCustomers": 58,
+    "deltaCustomers": -8
+  },
+  {
+    "name": "BAKE CRAFTERS FOOD COMPANY",
+    "number": 239540,
+    "cySales": "8,223.55",
+    "lySales": "22,668.71",
+    "deltaSales": "-14,445.16",
+    "cyCustomers": 45,
+    "lyCustomers": 45,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "ARYZTA LLC",
+    "number": 268940,
+    "cySales": "7,629.78",
+    "lySales": "33,523.55",
+    "deltaSales": "-25,893.77",
+    "cyCustomers": 57,
+    "lyCustomers": 58,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "RICH PRODUCTS CORPORATION",
+    "number": 104264,
+    "cySales": "92,852.13",
+    "lySales": "71,614.32",
+    "deltaSales": "21,237.81",
+    "cyCustomers": 57,
+    "lyCustomers": 55,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "A. ZEREGA'S SONS, INC",
+    "number": 178380,
+    "cySales": "31,104.38",
+    "lySales": "32,603.81",
+    "deltaSales": "-1,499.43",
+    "cyCustomers": 104,
+    "lyCustomers": 98,
+    "deltaCustomers": 6
+  },
+  {
+    "name": "CLABBER GIRL CORPORATION",
+    "number": 102458,
+    "cySales": "2,580.42",
+    "lySales": "3,698.66",
+    "deltaSales": "-1,118.24",
+    "cyCustomers": 36,
+    "lyCustomers": 34,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "FALCON RICE MILL",
+    "number": 209770,
+    "cySales": "10,381.87",
+    "lySales": "12,164.14",
+    "deltaSales": "-1,782.27",
+    "cyCustomers": 42,
+    "lyCustomers": 54,
+    "deltaCustomers": -12
+  },
+  {
+    "name": "ACH FOOD COMPANIES, INC",
+    "number": 165230,
+    "cySales": "74,664.92",
+    "lySales": "81,469.96",
+    "deltaSales": "-6,805.04",
+    "cyCustomers": 157,
+    "lyCustomers": 146,
+    "deltaCustomers": 11
+  },
+  {
+    "name": "DIRECT SOURCE MEATS",
+    "number": 203880,
+    "cySales": "34,248.90",
+    "lySales": "76,958.76",
+    "deltaSales": "-42,709.86",
+    "cyCustomers": 71,
+    "lyCustomers": 65,
+    "deltaCustomers": 6
+  },
+  {
+    "name": "MISSION RESTAURANT SUPPLY COMPANY",
+    "number": 178320,
+    "cySales": "12,597.76",
+    "lySales": "347.11",
+    "deltaSales": "12,250.65",
+    "cyCustomers": 56,
+    "lyCustomers": 5,
+    "deltaCustomers": 51
+  },
+  {
+    "name": "JENNIE-O TURKEY STORE SALES, LLC",
+    "number": 197380,
+    "cySales": "6,262.88",
+    "lySales": "23,100.49",
+    "deltaSales": "-16,837.61",
+    "cyCustomers": 21,
+    "lyCustomers": 42,
+    "deltaCustomers": -21
+  },
+  {
+    "name": "TRIDENT SEAFOODS CORPORATION",
+    "number": 122920,
+    "cySales": "20,905.00",
+    "lySales": "31,997.29",
+    "deltaSales": "-11,092.29",
+    "cyCustomers": 34,
+    "lyCustomers": 30,
+    "deltaCustomers": 4
+  },
+  {
+    "name": "BUTTER BUDS",
+    "number": 186200,
+    "cySales": "45.74",
+    "lySales": "1,082.68",
+    "deltaSales": "-1,036.94",
+    "cyCustomers": 10,
+    "lyCustomers": 13,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "SABERT",
+    "number": 229180,
+    "cySales": "14,336.57",
+    "lySales": "35,151.66",
+    "deltaSales": "-20,815.09",
+    "cyCustomers": 19,
+    "lyCustomers": 22,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "BAY VALLEY FOODS, LLC",
+    "number": 142107,
+    "cySales": "0.00",
+    "lySales": "6,206.33",
+    "deltaSales": "-6,206.33",
+    "cyCustomers": 0,
+    "lyCustomers": 34,
+    "deltaCustomers": -34
+  },
+  {
+    "name": "GOJO INDUSTRIES, INC.",
+    "number": 242200,
+    "cySales": "9,969.27",
+    "lySales": "17,689.00",
+    "deltaSales": "-7,719.73",
+    "cyCustomers": 60,
+    "lyCustomers": 65,
+    "deltaCustomers": -5
+  },
+  {
+    "name": "FOODHANDLER #774348",
+    "number": 188820,
+    "cySales": "160,420.71",
+    "lySales": "164,933.82",
+    "deltaSales": "-4,513.11",
+    "cyCustomers": 169,
+    "lyCustomers": 155,
+    "deltaCustomers": 14
+  },
+  {
+    "name": "PACTIV CORPORATION",
+    "number": 103446,
+    "cySales": "177,402.52",
+    "lySales": "161,032.27",
+    "deltaSales": "16,370.25",
+    "cyCustomers": 107,
+    "lyCustomers": 81,
+    "deltaCustomers": 26
+  },
+  {
+    "name": "HFA, INC.",
+    "number": 262730,
+    "cySales": "50,072.31",
+    "lySales": "55,355.71",
+    "deltaSales": "-5,283.40",
+    "cyCustomers": 116,
+    "lyCustomers": 109,
+    "deltaCustomers": 7
+  },
+  {
+    "name": "DURO BAG MANUFACTURING COMPANY",
+    "number": 109479,
+    "cySales": "38,351.67",
+    "lySales": "31,861.54",
+    "deltaSales": "6,490.13",
+    "cyCustomers": 74,
+    "lyCustomers": 81,
+    "deltaCustomers": -7
+  },
+  {
+    "name": "DIRECT SOURCE MEATS - COOKING FACILITY",
+    "number": 289420,
+    "cySales": "56,596.41",
+    "lySales": "50,357.80",
+    "deltaSales": "6,238.61",
+    "cyCustomers": 26,
+    "lyCustomers": 17,
+    "deltaCustomers": 9
+  },
+  {
+    "name": "WALLACE PACKAGING LLC",
+    "number": 245190,
+    "cySales": "29,820.00",
+    "lySales": "32,018.55",
+    "deltaSales": "-2,198.55",
+    "cyCustomers": 130,
+    "lyCustomers": 130,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "DIXIE CONSUMER PRODUCTS LLC",
+    "number": 179920,
+    "cySales": "1,440.60",
+    "lySales": "11,825.35",
+    "deltaSales": "-10,384.75",
+    "cyCustomers": 15,
+    "lyCustomers": 10,
+    "deltaCustomers": 5
+  },
+  {
+    "name": "BUENA VISTA FOOD PRODUCTS, INC",
+    "number": 246270,
+    "cySales": "64.00",
+    "lySales": "125.00",
+    "deltaSales": "-61.00",
+    "cyCustomers": 4,
+    "lyCustomers": 2,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "BUNGE OILS INC",
+    "number": 106135,
+    "cySales": "205,086.23",
+    "lySales": "524,220.64",
+    "deltaSales": "-319,134.41",
+    "cyCustomers": 127,
+    "lyCustomers": 148,
+    "deltaCustomers": -21
+  },
+  {
+    "name": "PAR-WAY GROUP",
+    "number": 188190,
+    "cySales": "4,518.60",
+    "lySales": "5,623.75",
+    "deltaSales": "-1,105.15",
+    "cyCustomers": 34,
+    "lyCustomers": 33,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "THE DANNON CO., INC.",
+    "number": 113131,
+    "cySales": "462.40",
+    "lySales": "34,333.87",
+    "deltaSales": "-33,871.47",
+    "cyCustomers": 5,
+    "lyCustomers": 36,
+    "deltaCustomers": -31
+  },
+  {
+    "name": "BORDEN MILK PRODUCTS LP (SAN ANTONIO)",
+    "number": 225680,
+    "cySales": "166,610.03",
+    "lySales": "184,842.23",
+    "deltaSales": "-18,232.20",
+    "cyCustomers": 127,
+    "lyCustomers": 113,
+    "deltaCustomers": 14
+  },
+  {
+    "name": "HP HOOD LLC",
+    "number": 293200,
+    "cySales": "0.00",
+    "lySales": "410.80",
+    "deltaSales": "-410.80",
+    "cyCustomers": 0,
+    "lyCustomers": 5,
+    "deltaCustomers": -5
+  },
+  {
+    "name": "ROSINA FOOD PRODUCTS, INC.",
+    "number": 196690,
+    "cySales": "6,998.33",
+    "lySales": "10,029.70",
+    "deltaSales": "-3,031.37",
+    "cyCustomers": 29,
+    "lyCustomers": 33,
+    "deltaCustomers": -4
+  },
+  {
+    "name": "ECOLAB, INC.",
+    "number": 101729,
+    "cySales": "97,923.37",
+    "lySales": "122,826.68",
+    "deltaSales": "-24,903.31",
+    "cyCustomers": 63,
+    "lyCustomers": 61,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "ABC COMPOUNDING/SPURRIER",
+    "number": 269570,
+    "cySales": "0.00",
+    "lySales": "19,837.85",
+    "deltaSales": "-19,837.85",
+    "cyCustomers": 0,
+    "lyCustomers": 106,
+    "deltaCustomers": -106
+  },
+  {
+    "name": "IMPERIAL DISTRIBUTING, INC.",
+    "number": 215740,
+    "cySales": "77,376.73",
+    "lySales": "93,620.18",
+    "deltaSales": "-16,243.45",
+    "cyCustomers": 162,
+    "lyCustomers": 152,
+    "deltaCustomers": 10
+  },
+  {
+    "name": "PACIFIC CHEESE",
+    "number": 187750,
+    "cySales": "41,247.32",
+    "lySales": "64,945.74",
+    "deltaSales": "-23,698.42",
+    "cyCustomers": 46,
+    "lyCustomers": 47,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "TAMPA BAY",
+    "number": 203450,
+    "cySales": "7,212.80",
+    "lySales": "13,287.64",
+    "deltaSales": "-6,074.84",
+    "cyCustomers": 25,
+    "lyCustomers": 24,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "LAMB WESTON SALES, INC.",
+    "number": 126926,
+    "cySales": "73,235.96",
+    "lySales": "45,583.18",
+    "deltaSales": "27,652.78",
+    "cyCustomers": 41,
+    "lyCustomers": 27,
+    "deltaCustomers": 14
+  },
+  {
+    "name": "BELGIOIOSO CHEESE, INC.",
+    "number": 262950,
+    "cySales": "21,966.45",
+    "lySales": "27,487.04",
+    "deltaSales": "-5,520.59",
+    "cyCustomers": 33,
+    "lyCustomers": 32,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "CHEESEMAKERS, INC.",
+    "number": 215900,
+    "cySales": "18,178.29",
+    "lySales": "21,014.47",
+    "deltaSales": "-2,836.18",
+    "cyCustomers": 24,
+    "lyCustomers": 19,
+    "deltaCustomers": 5
+  },
+  {
+    "name": "HOLMES FOODS POULTRY, LTD",
+    "number": 197190,
+    "cySales": "51,516.03",
+    "lySales": "69,343.59",
+    "deltaSales": "-17,827.56",
+    "cyCustomers": 46,
+    "lyCustomers": 46,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "RIO GRANDE PACK FOODS",
+    "number": 208110,
+    "cySales": "0.00",
+    "lySales": "49,432.06",
+    "deltaSales": "-49,432.06",
+    "cyCustomers": 2,
+    "lyCustomers": 51,
+    "deltaCustomers": -49
+  },
+  {
+    "name": "DOT FOODS, INC.",
+    "number": 106089,
+    "cySales": "38.41",
+    "lySales": "1,982.24",
+    "deltaSales": "-1,943.83",
+    "cyCustomers": 2,
+    "lyCustomers": 7,
+    "deltaCustomers": -5
+  },
+  {
+    "name": "BRIDGFORD FOODS CORPORATION",
+    "number": 111155,
+    "cySales": "3,183.30",
+    "lySales": "15,516.00",
+    "deltaSales": "-12,332.70",
+    "cyCustomers": 34,
+    "lyCustomers": 40,
+    "deltaCustomers": -6
+  },
+  {
+    "name": "RESER'S",
+    "number": 167610,
+    "cySales": "5,508.46",
+    "lySales": "13,665.10",
+    "deltaSales": "-8,156.64",
+    "cyCustomers": 28,
+    "lyCustomers": 27,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "SLADE GORTON & CO., INC.",
+    "number": 166530,
+    "cySales": "4,714.70",
+    "lySales": "9,256.40",
+    "deltaSales": "-4,541.70",
+    "cyCustomers": 14,
+    "lyCustomers": 8,
+    "deltaCustomers": 6
+  },
+  {
+    "name": "HIGH LINER FOODS (USA) INCORPORATED",
+    "number": 108251,
+    "cySales": "272.52",
+    "lySales": "3,360.21",
+    "deltaSales": "-3,087.69",
+    "cyCustomers": 15,
+    "lyCustomers": 13,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "AUSTIN SEAFOOD PRODUCTS",
+    "number": 226080,
+    "cySales": "4,148.23",
+    "lySales": "16,129.69",
+    "deltaSales": "-11,981.46",
+    "cyCustomers": 13,
+    "lyCustomers": 17,
+    "deltaCustomers": -4
+  },
+  {
+    "name": "NISQUALLY INDIAN TRIBE",
+    "number": 277450,
+    "cySales": "0.00",
+    "lySales": "612.96",
+    "deltaSales": "-612.96",
+    "cyCustomers": 0,
+    "lyCustomers": 3,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "AMERICA'S CATCH INC.",
+    "number": 189340,
+    "cySales": "45,283.20",
+    "lySales": "48,320.65",
+    "deltaSales": "-3,037.45",
+    "cyCustomers": 42,
+    "lyCustomers": 49,
+    "deltaCustomers": -7
+  },
+  {
+    "name": "TWIN TAILS SEAFOOD CORP.",
+    "number": 252270,
+    "cySales": "102.60",
+    "lySales": "6,672.10",
+    "deltaSales": "-6,569.50",
+    "cyCustomers": 5,
+    "lyCustomers": 7,
+    "deltaCustomers": -2
+  },
+  {
+    "name": "PENGUIN FROZEN FOODS",
+    "number": 189670,
+    "cySales": "0.00",
+    "lySales": "3,926.25",
+    "deltaSales": "-3,926.25",
+    "cyCustomers": 0,
+    "lyCustomers": 4,
+    "deltaCustomers": -4
+  },
+  {
+    "name": "WORLDWIDE SHRIMP COMPANY",
+    "number": 247340,
+    "cySales": "10,196.50",
+    "lySales": "8,604.50",
+    "deltaSales": "1,592.00",
+    "cyCustomers": 8,
+    "lyCustomers": 7,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "REMBRANDT ENTERPRISES",
+    "number": 235000,
+    "cySales": "64,522.00",
+    "lySales": "85,443.39",
+    "deltaSales": "-20,921.39",
+    "cyCustomers": 54,
+    "lyCustomers": 47,
+    "deltaCustomers": 7
+  },
+  {
+    "name": "RUIZ FOOD PRODUCTS, INC.",
+    "number": 243400,
+    "cySales": "3,697.74",
+    "lySales": "651.82",
+    "deltaSales": "3,045.92",
+    "cyCustomers": 5,
+    "lyCustomers": 5,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "FOSTER FARMS",
+    "number": 183780,
+    "cySales": "26,125.49",
+    "lySales": "44,411.32",
+    "deltaSales": "-18,285.83",
+    "cyCustomers": 34,
+    "lyCustomers": 35,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "CONAGRA FOODS GILARDI",
+    "number": 204130,
+    "cySales": "1,373.58",
+    "lySales": "4,883.72",
+    "deltaSales": "-3,510.14",
+    "cyCustomers": 9,
+    "lyCustomers": 14,
+    "deltaCustomers": -5
+  },
+  {
+    "name": "LE CHI",
+    "number": 232420,
+    "cySales": "0.00",
+    "lySales": "207.00",
+    "deltaSales": "-207.00",
+    "cyCustomers": 2,
+    "lyCustomers": 4,
+    "deltaCustomers": -2
+  },
+  {
+    "name": "SUPER BAKERY, INC.",
+    "number": 145408,
+    "cySales": "268.48",
+    "lySales": "2,236.26",
+    "deltaSales": "-1,967.78",
+    "cyCustomers": 8,
+    "lyCustomers": 11,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "FARMLAND FOODS, INC",
+    "number": 121444,
+    "cySales": "44,706.13",
+    "lySales": "67,084.69",
+    "deltaSales": "-22,378.56",
+    "cyCustomers": 39,
+    "lyCustomers": 41,
+    "deltaCustomers": -2
+  },
+  {
+    "name": "CARL BUDDIG AND COMPANY",
+    "number": 100781,
+    "cySales": "154.74",
+    "lySales": "4,226.40",
+    "deltaSales": "-4,071.66",
+    "cyCustomers": 5,
+    "lyCustomers": 7,
+    "deltaCustomers": -2
+  },
+  {
+    "name": "KELLOGG'S FROZEN",
+    "number": 286980,
+    "cySales": "52.16",
+    "lySales": "3,139.69",
+    "deltaSales": "-3,087.53",
+    "cyCustomers": 22,
+    "lyCustomers": 14,
+    "deltaCustomers": 8
+  },
+  {
+    "name": "ROCHESTER MEAT COMPANY",
+    "number": 222560,
+    "cySales": "69,699.25",
+    "lySales": "42,268.77",
+    "deltaSales": "27,430.48",
+    "cyCustomers": 79,
+    "lyCustomers": 76,
+    "deltaCustomers": 3
+  },
+  {
+    "name": "APPLE AND EVE",
+    "number": 259830,
+    "cySales": "1,752.22",
+    "lySales": "8,320.22",
+    "deltaSales": "-6,568.00",
+    "cyCustomers": 19,
+    "lyCustomers": 18,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "JOSEPH'S GOURMET PASTA & SAUCES",
+    "number": 203800,
+    "cySales": "3,564.06",
+    "lySales": "13,881.05",
+    "deltaSales": "-10,316.99",
+    "cyCustomers": 19,
+    "lyCustomers": 22,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "STERLING FOODS LLC",
+    "number": 190000,
+    "cySales": "4,229.00",
+    "lySales": "20.44",
+    "deltaSales": "4,208.56",
+    "cyCustomers": 3,
+    "lyCustomers": 1,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "LUX BAKERY, INC",
+    "number": 212970,
+    "cySales": "201.60",
+    "lySales": "320.40",
+    "deltaSales": "-118.80",
+    "cyCustomers": 6,
+    "lyCustomers": 4,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "VIE DE FRANCE YAMAZAKI, INC",
+    "number": 114928,
+    "cySales": "14,492.78",
+    "lySales": "17,248.48",
+    "deltaSales": "-2,755.70",
+    "cyCustomers": 17,
+    "lyCustomers": 16,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "WELL'S ENTERPRISES, INC.",
+    "number": 193410,
+    "cySales": "0.00",
+    "lySales": "487.32",
+    "deltaSales": "-487.32",
+    "cyCustomers": 2,
+    "lyCustomers": 2,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "DEL MONTE FRESH PRODUCE N.A., INC",
+    "number": 141895,
+    "cySales": "0.00",
+    "lySales": "744.85",
+    "deltaSales": "-744.85",
+    "cyCustomers": 5,
+    "lyCustomers": 2,
+    "deltaCustomers": 3
+  },
+  {
+    "name": "TIP TOP CANNING COMPANY",
+    "number": 273380,
+    "cySales": "0.00",
+    "lySales": "16,389.77",
+    "deltaSales": "-16,389.77",
+    "cyCustomers": 0,
+    "lyCustomers": 63,
+    "deltaCustomers": -63
+  },
+  {
+    "name": "ONEONTA TRADING CORPORATION",
+    "number": 278400,
+    "cySales": "1,785.70",
+    "lySales": "16,820.76",
+    "deltaSales": "-15,035.06",
+    "cyCustomers": 39,
+    "lyCustomers": 45,
+    "deltaCustomers": -6
+  },
+  {
+    "name": "SUN GLO OF IDAHO, INC.",
+    "number": 250470,
+    "cySales": "9,356.15",
+    "lySales": "14,685.15",
+    "deltaSales": "-5,329.00",
+    "cyCustomers": 59,
+    "lyCustomers": 54,
+    "deltaCustomers": 5
+  },
+  {
+    "name": "TAYLOR FARMS",
+    "number": 132136,
+    "cySales": "269,678.65",
+    "lySales": "225,933.93",
+    "deltaSales": "43,744.72",
+    "cyCustomers": 90,
+    "lyCustomers": 79,
+    "deltaCustomers": 11
+  },
+  {
+    "name": "WOODLAND FOODS, LTD",
+    "number": 201820,
+    "cySales": "259.21",
+    "lySales": "69.21",
+    "deltaSales": "190.00",
+    "cyCustomers": 3,
+    "lyCustomers": 1,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "PREMIER PRODUCE SERVICES LLC",
+    "number": 289520,
+    "cySales": "6,926.05",
+    "lySales": "10,188.30",
+    "deltaSales": "-3,262.25",
+    "cyCustomers": 50,
+    "lyCustomers": 45,
+    "deltaCustomers": 5
+  },
+  {
+    "name": "BANANA DISTRIBUTING COMPANY",
+    "number": 129704,
+    "cySales": "17,789.90",
+    "lySales": "31,845.50",
+    "deltaSales": "-14,055.60",
+    "cyCustomers": 40,
+    "lyCustomers": 39,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "FRESH CREATIVE FOODS",
+    "number": 214070,
+    "cySales": "418.84",
+    "lySales": "13,719.97",
+    "deltaSales": "-13,301.13",
+    "cyCustomers": 16,
+    "lyCustomers": 12,
+    "deltaCustomers": 4
+  },
+  {
+    "name": "BELLA FRESH HOUSTON, LLC",
+    "number": 255140,
+    "cySales": "0.00",
+    "lySales": "8,370.00",
+    "deltaSales": "-8,370.00",
+    "cyCustomers": 1,
+    "lyCustomers": 1,
+    "deltaCustomers": 0
+  },
+  {
+    "name": "BLANCO CREEK FARMS LLC",
+    "number": 279600,
+    "cySales": "309,406.90",
+    "lySales": "5,007.80",
+    "deltaSales": "304,399.10",
+    "cyCustomers": 13,
+    "lyCustomers": 12,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "PRODUCE REPACK-DELETED SAMPLES",
+    "number": 183310,
+    "cySales": "10,544.03",
+    "lySales": "16,279.70",
+    "deltaSales": "-5,735.67",
+    "cyCustomers": 63,
+    "lyCustomers": 59,
+    "deltaCustomers": 4
+  },
+  {
+    "name": "LA GALERA INC.",
+    "number": 287550,
+    "cySales": "9,252.84",
+    "lySales": "11,373.45",
+    "deltaSales": "-2,120.61",
+    "cyCustomers": 8,
+    "lyCustomers": 7,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "TUSCAN PRODUCTS LLC",
+    "number": 122629,
+    "cySales": "1,725.50",
+    "lySales": "750.00",
+    "deltaSales": "975.50",
+    "cyCustomers": 1,
+    "lyCustomers": 2,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "M&P PRODUCE CO INC",
+    "number": 268240,
+    "cySales": "27,150.50",
+    "lySales": "31,822.50",
+    "deltaSales": "-4,672.00",
+    "cyCustomers": 28,
+    "lyCustomers": 22,
+    "deltaCustomers": 6
+  },
+  {
+    "name": "NEWSTAR FRESH FOODS, LLC",
+    "number": 154300,
+    "cySales": "10,154.90",
+    "lySales": "9,003.25",
+    "deltaSales": "1,151.65",
+    "cyCustomers": 33,
+    "lyCustomers": 34,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "FRESH FROM TEXAS, INC.",
+    "number": 127655,
+    "cySales": "0.00",
+    "lySales": "12.13",
+    "deltaSales": "-12.13",
+    "cyCustomers": 0,
+    "lyCustomers": 1,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "GOLD COAST PACKING, INC.",
+    "number": 282460,
+    "cySales": "5,261.76",
+    "lySales": "7,881.38",
+    "deltaSales": "-2,619.62",
+    "cyCustomers": 21,
+    "lyCustomers": 18,
+    "deltaCustomers": 3
+  },
+  {
+    "name": "MURPHY TOMATOES",
+    "number": 205940,
+    "cySales": "208,699.40",
+    "lySales": "244,213.90",
+    "deltaSales": "-35,514.50",
+    "cyCustomers": 102,
+    "lyCustomers": 103,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "GR PRODUCE, INC",
+    "number": 283520,
+    "cySales": "9,177.80",
+    "lySales": "7,780.50",
+    "deltaSales": "1,397.30",
+    "cyCustomers": 30,
+    "lyCustomers": 27,
+    "deltaCustomers": 3
+  },
+  {
+    "name": "ORGANICGIRL LLC",
+    "number": 289730,
+    "cySales": "0.00",
+    "lySales": "5,184.00",
+    "deltaSales": "-5,184.00",
+    "cyCustomers": 0,
+    "lyCustomers": 1,
+    "deltaCustomers": -1
+  },
+  {
+    "name": "PETERSON FARMS FRESH, INC.",
+    "number": 261290,
+    "cySales": "347.25",
+    "lySales": "425.70",
+    "deltaSales": "-78.45",
+    "cyCustomers": 8,
+    "lyCustomers": 2,
+    "deltaCustomers": 6
+  },
+  {
+    "name": "DOGWOOD GARDENS ORGANIC FARM",
+    "number": 242520,
+    "cySales": "0.00",
+    "lySales": "586.50",
+    "deltaSales": "-586.50",
+    "cyCustomers": 0,
+    "lyCustomers": 3,
+    "deltaCustomers": -3
+  },
+  {
+    "name": "CANDLE LAMP COMPANY, LLC",
+    "number": 261050,
+    "cySales": "1,417.02",
+    "lySales": "0.00",
+    "deltaSales": "1,417.02",
+    "cyCustomers": 23,
+    "lyCustomers": 0,
+    "deltaCustomers": 23
+  },
+  {
+    "name": "ARCOT MANUFACTURING CORPORATION",
+    "number": 266580,
+    "cySales": "16,937.45",
+    "lySales": "0.00",
+    "deltaSales": "16,937.45",
+    "cyCustomers": 89,
+    "lyCustomers": 0,
+    "deltaCustomers": 89
+  },
+  {
+    "name": "PROGRESSIVE PRODUCTS, LLC - WIPES PLUS",
+    "number": 286490,
+    "cySales": "1,512.39",
+    "lySales": "0.00",
+    "deltaSales": "1,512.39",
+    "cyCustomers": 8,
+    "lyCustomers": 0,
+    "deltaCustomers": 8
+  },
+  {
+    "name": "GRECIAN DELIGHT FOODS, INC.",
+    "number": 184290,
+    "cySales": "1,317.25",
+    "lySales": "0.00",
+    "deltaSales": "1,317.25",
+    "cyCustomers": 8,
+    "lyCustomers": 0,
+    "deltaCustomers": 8
+  },
+  {
+    "name": "SPICY NOTHINGS",
+    "number": 286870,
+    "cySales": "8,048.00",
+    "lySales": "0.00",
+    "deltaSales": "8,048.00",
+    "cyCustomers": 1,
+    "lyCustomers": 0,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "ZANIOS COP MEAT PRODUCTION",
+    "number": 254890,
+    "cySales": "172.00",
+    "lySales": "0.00",
+    "deltaSales": "172.00",
+    "cyCustomers": 1,
+    "lyCustomers": 0,
+    "deltaCustomers": 1
+  },
+  {
+    "name": "TILLAMOOK COUNTY CREAMERY ASSOCIATION",
+    "number": 224990,
+    "cySales": "16,131.93",
+    "lySales": "0.00",
+    "deltaSales": "16,131.93",
+    "cyCustomers": 2,
+    "lyCustomers": 0,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "CARGILL INC./POULTRY PRODUCTS",
+    "number": 167930,
+    "cySales": "4,696.40",
+    "lySales": "0.00",
+    "deltaSales": "4,696.40",
+    "cyCustomers": 2,
+    "lyCustomers": 0,
+    "deltaCustomers": 2
+  },
+  {
+    "name": "NATIONAL BEEF",
+    "number": 202810,
+    "cySales": "0.00",
+    "lySales": "0.00",
+    "deltaSales": "0.00",
+    "cyCustomers": 4,
+    "lyCustomers": 0,
+    "deltaCustomers": 4
+  }
+]

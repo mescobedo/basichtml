@@ -1,0 +1,132 @@
+﻿<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="https://cdn.labattfood.com/images/common/favicon.ico" />
+    <link href="https://cdn.labattfood.com/libs/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.labattfood.com/libs/datatables/1.10.9/css/jquery.datatables.min.css" rel="stylesheet" type="text/css" />
+    <link href="main.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.labattfood.com/libs/jquery/2.1.4/jquery-2.1.4.min.js" type="text/javascript"></script>
+    <script src="http://cdn.labattfood.com/libs/jqueryui/1.11.4/jquery-ui-1.11.4.min.js" type="text/javascript"></script>
+    <script src="https://cdn.labattfood.com/libs/datatables/1.10.9/js/jquery.dataTables.min.js" type="text/javascript"></script>
+    <script src="https://cdn.labattfood.com/libs/bootstrap/3.3.5/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="https://cdn.labattfood.com/libs/handlebars/4.0.3/handlebars.min.js" type="text/javascript"></script>
+    <script src="https://cdn.labattfood.com/libs/moment/2.15.0/moment.min.js" type="text/javascript"></script>
+    <link href="http://cdn.labattfood.com/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.labattfood.com/libs/swag/0.6.1/swag.js" type="text/javascript"></script>
+    <script src="FoodShowScripts.js" type="text/javascript"></script>
+    <script>Swag.registerHelpers(Handlebars);</script>
+</head>
+
+<div class="text-center" style="width:50%;margin:20px 20px 20px 20px">
+    <h2>Customer Attendance by Vendor</h2>
+    <div class="input-group">
+        <input type="text" class="form-control" placeholder="Search by Vendor Number">
+        <span class="input-group-btn">
+            <button class="btn btn-default" type="button" data-toggle="modal" data-target="#vendorAttModal">Display</button>
+        </span>
+    </div>
+    <br />
+    <table class="table table-bordered table-striped table-condensed text-center table-hover">
+        <thead>
+            <tr>
+                <th rowspan="2" style="text-align:center">Vendor #</th>
+                <th rowspan="2" style="text-align:center">Name</th>
+                <th colspan="2" style="text-align:center">Customers Visited:</th>
+
+                <th rowspan="2" style="text-align:center">Variance</th>
+            </tr>
+            <tr>
+                <th style="text-align:center">This Year</th>
+                <th style="text-align:center">Last Year</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-toggle="modal" data-target="#vendorAttModal">
+                <td>136646</td>
+                <td>United Salt Corporation</td>
+                <td>45</td>
+                <td>30</td>
+                <td>-15</td>
+            </tr>
+            <tr data-toggle="modal" data-target="#vendorAttModal">
+                <td>270740</td>
+                <td>Mondelez</td>
+                <td>45</td>
+                <td>30</td>
+                <td>-15</td>
+            </tr>
+            <tr data-toggle="modal" data-target="#vendorAttModal">
+                <td>112771</td>
+                <td>Dart Container Corporation</td>
+                <td>45</td>
+                <td>30</td>
+                <td>-15</td>
+            </tr>
+            <tr data-toggle="modal" data-target="#vendorAttModal">
+                <td>102849</td>
+                <td>Land O' Lakes, Inc.</td>
+                <td>45</td>
+                <td>30</td>
+                <td>-15</td>
+            </tr>
+            <tr data-toggle="modal" data-target="#vendorAttModal">
+                <td>289520</td>
+                <td>Premier Produce Services LLC</td>
+                <td>45</td>
+                <td>30</td>
+                <td>-15</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- Modal -->
+    <div class="modal fade" id="vendorAttModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Customer Attendance</h4>
+                </div>
+                <div class="modal-body">
+                    <table class="table table-bordered table-striped table-condensed text-center table-hover">
+                        <thead>
+                            <tr>
+                                <th style="text-align:center">Customer #</th>
+                                <th style="text-align:center">Visited?</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>126347</td>
+                                <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+                            </tr>
+                            <tr>
+                                <td>376473</td>
+                                <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+                            </tr>
+                            <tr>
+                                <td>635473</td>
+                                <td><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></td>
+                            </tr>
+                            <tr>
+                                <td>237654</td>
+                                <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+                            </tr>
+                            <tr>
+                                <td>192985</td>
+                                <td><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    
+</div>
